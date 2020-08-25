@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
-h1, p {
+h1, p, a {
     text-align: center;
     margin: auto;
     padding: 10;
@@ -20,4 +20,12 @@ body {
 
 h1 {
     border-bottom: medium solid black;
+}
+
+.banner {
+    width: 100%;
+    background: #f04ff0;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
 }
