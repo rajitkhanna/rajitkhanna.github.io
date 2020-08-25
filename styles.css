@@ -9,8 +9,9 @@ div {
 body {
     background-color: violet;
     opacity: 0.5;
+    margin: auto;
 }
 
 h1 {
-    border-style: solid;
+    border-bottom: medium solid black;
 }
