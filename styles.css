@@ -36,7 +36,7 @@ p {
     text-align: center;
 }
 
-.nav {
+#navbar {
     background-color: white;
     top: -50px;
     width: 100%;
