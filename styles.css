@@ -35,3 +35,10 @@ p {
     padding: 50px 0;
     text-align: center;
 }
+
+.navbar {
+    background-color: white;
+    top: -50px;
+    width: 100%;
+    transition: top 0.3s;
+}
